@@ -15,7 +15,12 @@
 
 ## Tabulation
 
+![WhatsApp Image 2025-11-25 at 21 38 11_7da9930d](https://github.com/user-attachments/assets/41eb0d90-3a24-4d53-be07-23a9bc771943)
+
 ## Graph
+
+![WhatsApp Image 2025-11-25 at 21 42 21_83158922](https://github.com/user-attachments/assets/3a5e0050-a8a2-4076-8b73-10587f0dd785)
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
