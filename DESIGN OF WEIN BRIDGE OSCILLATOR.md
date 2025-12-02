@@ -1,5 +1,4 @@
 ## EXP NO:2
-
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -13,7 +12,6 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-
 ## Tabulation
 
 ![WhatsApp Image 2025-11-25 at 21 38 11_7da9930d](https://github.com/user-attachments/assets/41eb0d90-3a24-4d53-be07-23a9bc771943)
@@ -22,10 +20,8 @@
 
 ![WhatsApp Image 2025-11-25 at 21 42 21_83158922](https://github.com/user-attachments/assets/3a5e0050-a8a2-4076-8b73-10587f0dd785)
 
-
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation =50 HZ
-
 
 Theoritical Frequency of Oscillation =100.148HZ
