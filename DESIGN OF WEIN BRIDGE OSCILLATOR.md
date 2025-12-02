@@ -8,16 +8,15 @@
 <img width="610" height="426" alt="image" src="https://github.com/user-attachments/assets/42f77f02-6ee4-4029-844c-378198495696" />
 
 ## OSCILLATOR DESIGN
+
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 ## Tabulation
-
 ![WhatsApp Image 2025-11-25 at 21 38 11_7da9930d](https://github.com/user-attachments/assets/41eb0d90-3a24-4d53-be07-23a9bc771943)
 
 ## Graph
-
 ![WhatsApp Image 2025-11-25 at 21 42 21_83158922](https://github.com/user-attachments/assets/3a5e0050-a8a2-4076-8b73-10587f0dd785)
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
